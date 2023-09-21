@@ -3,6 +3,7 @@ Examen Final, Aplicación móvil para la detección de los edificios del campus 
 
 ------------------Imagenes probando al APP------------------------------
 
+
 ------------------Departamento Academico------------------------------
 
 ![Screenshot_2023-09-20-22-30-50](https://github.com/JohnVeraXD/MyAppRealTimeUTEQ_Examen/assets/108051712/cbe3e6f1-0900-457b-92f2-2b2cc7bbdd41)
